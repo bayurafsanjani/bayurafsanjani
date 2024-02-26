@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayurafsanjani
 - 👀 I’m interested in Writing,Code,and Design
-- 🌱 Long learning Front End Developer
+- 🌱 Long learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Any Projects
 - 📫 How to reach me kekeistreet@gmail.com
 
